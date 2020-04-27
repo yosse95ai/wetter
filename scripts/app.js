@@ -9,6 +9,8 @@ module.exports = robot => {
       weather.cityWeather(city)
     ]).then(weather => {
       msg.send(city+'周辺の現在の天気\n'+weather);
+    }).catch(message => {
+      msg.send(message);
     });
   });
   //ヘルプの表示
