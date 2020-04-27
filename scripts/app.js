@@ -17,8 +17,8 @@ module.exports = robot => {
   //ヘルプの表示
   robot.respond(/ヘルプ|help/i, msg => {
     const commands = {
-      'wetter weather {市町村名}':'市町村周辺の現在の天気を出力',
-      'wetter ヘルプ|help':'ヘルプを出力'
+      '@wetter weather {市町村名}':'市町村周辺の現在の天気を出力',
+      '@wetter ヘルプ|help':'ヘルプを出力'
     }
     msg.send('*ヘルプを表示します*');
     for(let k in commands) {
