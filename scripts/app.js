@@ -8,8 +8,8 @@ module.exports = robot => {
     Promise.all([
       weather.cityWeather(city)
     ]).then(weather => {
-      msg.send(city + 'の天気: '+ weather);
-    })
+      msg.send(city+'周辺の現在の天気\n'+weather);
+    });
   });
   //ヘルプの表示
   robot.respond(/ヘルプ|help/i, msg => {
