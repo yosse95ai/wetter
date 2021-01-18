@@ -1,3 +1,6 @@
+# Slack Channel
+[https://roaaaa-dev.slack.com/archives/C012JLPFNRY](https://roaaaa-dev.slack.com/archives/C012JLPFNRY)
+
 # wetter
 
 wetter is a chat bot built on the [Hubot][hubot] framework. It was
