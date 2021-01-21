@@ -1,7 +1,10 @@
 # Slack Channel
-[https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ](https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ)
+招待用URL[https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ](https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ)
+
+# sourvce code
 
 [https://drive.google.com/drive/folders/1Gx04MppOSxGPHCfqM8-8zA6YpFzm8fLX?usp=sharing](https://drive.google.com/drive/folders/1Gx04MppOSxGPHCfqM8-8zA6YpFzm8fLX?usp=sharing)
+
 # wetter
 
 wetter is a chat bot built on the [Hubot][hubot] framework. It was
