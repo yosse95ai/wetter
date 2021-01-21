@@ -23,7 +23,7 @@ GAS × Slack でお天気ボットを作りました.
 
 メッセージはすべて`半角スペース`で区切ってください. 
 
-### Command list
+## Command list
 `@wettervol2 help`でヘルプを表示し，コマンドリストを表示してくれますが，こちらにも記します．
 
 - `@wettervol2 ex` : 例文を表示
