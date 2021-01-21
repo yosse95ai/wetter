@@ -30,11 +30,14 @@ GAS × Slack でお天気ボットを作りました.
 - `@wettervol2 forecast t {市町村名} {n時間後}` : 市町村周辺のn時間後の天気予報を表示(47時間以内)
 - `@wettervol2 forecast d {市町村名} {m日語}` : 市町村周辺のm日後の天気予報を表示(7日以内)
 - `@wettervol2 help` : ヘルプを表示
-- `@wettervol2 list` : 指定県に存在する市町村を表示
+- `@wettervol2 list {都道府県名}` : 指定県に存在する使用可能な市町村を表示
 - `@wettervol2 weather c {市町村名}` : 市町村周辺の現在の天気を表示
 - `@wettervol2 weather o {郵便番号} {該当国ID}` : 該当郵便番号の天気を表示
 - `@wettervol2 weather p {日本郵便番号}` : 該当郵便番号の天気を表示
 
 より詳しい使い方は，`@wettervol2 ex`をご参照いただきたいと思います.
 
+# Other Files
+GitHub自体に保存されているファイル群は前述のHubotでの開発の際に書いたプログラムです．
 
+GASでの実装の方が後にしたためGASのプログラムが最新であること，つまりGitHub内のデータがほぼ意味をなしていないことをご了承願いたいです．
