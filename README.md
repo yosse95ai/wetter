@@ -14,7 +14,7 @@ GAS × Slack でお天気ボットを作りました.
 参加できない場合はお知らせください．
 yosimura.hiroaki817@mail.kyutech.jp
 
-# Sourvce Code
+# Source Code
 ソースコードになります．
 
 [https://drive.google.com/drive/folders/1Gx04MppOSxGPHCfqM8-8zA6YpFzm8fLX?usp=sharing](https://drive.google.com/drive/folders/1Gx04MppOSxGPHCfqM8-8zA6YpFzm8fLX?usp=sharing)
