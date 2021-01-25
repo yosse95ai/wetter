@@ -11,6 +11,9 @@ GAS × Slack でお天気ボットを作りました.
 
 招待用URL: [https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ](https://join.slack.com/t/roaaaa-dev/shared_invite/zt-l92ex72s-wKraUlZK~A1xYEuVIDVYXQ)
 
+参加できない場合はお知らせください．
+yosimura.hiroaki817@mail.kyutech.jp
+
 # Sourvce Code
 ソースコードになります．
 
