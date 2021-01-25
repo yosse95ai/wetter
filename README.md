@@ -31,7 +31,7 @@ yosimura.hiroaki817@mail.kyutech.jp
 
 - `@wettervol2 ex` : 例文を表示
 - `@wettervol2 forecast t {市町村名} {n時間後}` : 市町村周辺のn時間後の天気予報を表示(47時間以内)
-- `@wettervol2 forecast d {市町村名} {m日語}` : 市町村周辺のm日後の天気予報を表示(7日以内)
+- `@wettervol2 forecast d {市町村名} {m日後}` : 市町村周辺のm日後の天気予報を表示(7日以内)
 - `@wettervol2 help` : ヘルプを表示
 - `@wettervol2 list {都道府県名}` : 指定県に存在する使用可能な市町村を表示
 - `@wettervol2 weather c {市町村名}` : 市町村周辺の現在の天気を表示
